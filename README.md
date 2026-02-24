@@ -49,7 +49,7 @@ The data pipeline consists of the following layers:
 
 ---
 
-## 📈 Power BI Visualizations
+## 📈 Snowsight and Tableau
 The following KPIs and analyses were created using data fetched from Snowflake:
 * **Key KPIs:** Total Revenue, Total Bookings, Average Booking Amount.
 * **Time Analysis:** Revenue tracking on a Year/Quarter/Month basis using drill-down features.
