@@ -13,9 +13,11 @@ The final dashboard prepared in Snowflake ,Snowsight and Tableau analyzes revenu
 
 ### 🔗 Live Dashboard
 
-You can view the interactive Tableau dashboard here:
+You can view the interactive Tableau  dashboard here:
+👉 **[View Hotel Analytics Tableau Dashboard](https://public.tableau.com/app/profile/henry.tirla/viz/HotelBooking_17719416527260/HotelAnalyticsDashboard)**
 
-👉 **[View Hotel Analytics Dashboard](https://public.tableau.com/app/profile/henry.tirla/viz/HotelBooking_17719416527260/HotelAnalyticsDashboard)**
+You can view the interactive Looker  dashboard here: 👉 **[View Hotel Analytics Looker Dashboard](https://lookerstudio.google.com/reporting/2fbe1ebb-ca14-4871-b66d-566fb5f8f8e2/page/NfEqF)**
+
 
 
 
